@@ -14,5 +14,7 @@ sjfgnsodjfmsokfm
 
 ## How To Contribute
 
+Please fork this repository
+
 ### Copyright
 2022 Copyright Kacper.Kita
